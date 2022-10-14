@@ -1,16 +1,9 @@
 # solar_system
 
-A new Flutter project.
+Apk file included
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/77541683/195932962-6b147d27-709e-4029-b066-4a05dc1f76e3.mov
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2022-10-14 at 22 00 49](https://user-images.githubusercontent.com/77541683/195932843-f69578e5-dbb5-4998-ba54-87a152a59c39.png)![Screenshot 2022-10-14 at 22 00 35](https://user-images.githubusercontent.com/77541683/195932855-680395c1-1079-4bf0-b738-c48450b9948a.png)
